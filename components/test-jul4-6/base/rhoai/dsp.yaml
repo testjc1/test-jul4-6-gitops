@@ -1,0 +1,7 @@
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: test-jul4-6-rhoai
+  labels:
+    kubernetes.io/metadata.name: test-jul4-6-rhoai
+    opendatahub.io/dashboard: 'true'
